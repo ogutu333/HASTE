@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786775311962",
+    "project_id": "haste-17bcd",
+    "storage_bucket": "haste-17bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786775311962:android:1014b6da9fdcad89203a63",
+        "android_client_info": {
+          "package_name": "com.haste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwL1HJEE0e6iVVHF7Zt0j4MqEi1wILVR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
