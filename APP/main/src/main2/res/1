@@ -1,0 +1,25 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v170)
+"   /Users/deborahogutu/StudioProjects/HASTE/APP/main/src/main2/res/drawable
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+alert_button_background.xml
+alert_button_success_background.xml
+circular.xml
+circular_background.xml
+ic_add_circle_outline_black_24dp.xml
+ic_chat_black_24dp.xml
+ic_error_black_24dp.xml
+ic_list_black_24dp.xml
+ic_map_black_24dp.xml
+ic_menu_manage.xml
+ic_place_black_24dp.xml
+ic_settings_applications_black_24dp.xml
+rounded_rectangle_blue.xml
+rounded_rectangle_orange.xml
+rounded_rectangle_white.xml
+side_nav_bar.xml
